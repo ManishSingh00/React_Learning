@@ -66,3 +66,5 @@ How Fiber Works (Simplified):
 **Reconciliation is like comparing the old blueprint to a new one to see what changed.
 **Fiber is like a project manager who can pause and prioritize tasks (e.g., paint kitchen before fixing the roof), improving overall efficiency. -->
 
+
+
